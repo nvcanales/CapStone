@@ -64,9 +64,31 @@ a {
 
 /*Hero Statement*/
 
+
+
 /*Info Section*/
 
 /*Courses Section*/
+.choice {
+  background-position: top;
+  height: 500px;
+  padding: 32px 72px;
+  width: 1200px;
+  }
+
+.course{
+  width: 340px;
+  margin-top: 10px;
+}
+.course .images{
+  image-orientation: auto;
+}
+
+.career {
+  width: 300px;
+  padding: 20px 0;
+  opacity: 1;
+}
 
 
 /*Thesis Exhibit*/
